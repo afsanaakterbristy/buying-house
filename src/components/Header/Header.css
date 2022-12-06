@@ -1,0 +1,28 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+
+}
+.header a{
+    color: #FFFF;
+    text-decoration: none;
+    font-size: 17PX;
+    margin-left: 37px;
+}
+.header a:hover{
+    color: orange;
+}
+.user{
+    color: antiquewhite;
+}
+.btn-logout{
+    margin-left: 10px;
+    background-color:#1C2B35;
+    color: white;
+    font-size: 17PX;
+}
